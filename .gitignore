@@ -1,2 +1,5 @@
-data/
+data/elevation/*
+data/misc/*
+data/terminus/*
+data/velocity/*
 src/reference/
