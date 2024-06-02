@@ -1,5 +1,9 @@
 */*
+
 !aerodem/aerodem_download.bat
 !arcticdem/arcticdem-strip-index_download.bat
 !grimpdem/grimpdem_download.bat
 !icesat2/icesat2_download.bat
+
+!arcticdem/dj_arcticdem_points.nc
+!arcticdem/ui_arcticdem_points.nc
