@@ -1,0 +1,5 @@
+*/*
+!bedmachine/bedmachine-v5_download.bat
+!basins.geojson
+!centreline_lines.geojson
+!centreline_points.geojson
