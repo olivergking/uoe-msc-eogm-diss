@@ -1,9 +1,15 @@
 */*
 
 !aerodem/aerodem_download.bat
+
 !arcticdem/arcticdem-strip-index_download.bat
+!arcticdem/elevation_arcticdem_points_2011_2022.nc
+!arcticdem/elevation_arcticdem_points_2011_2022_geoid.nc
+
+!asterdem/elevation_asterdem_points_2000_2024.nc
+!asterdem/elevation_asterdem_points_2000_2024_geoid.nc
+
 !grimpdem/grimpdem_download.bat
+
 !icesat2/icesat2_download.bat
 
-!arcticdem/dj_arcticdem_points.nc
-!arcticdem/ui_arcticdem_points.nc
