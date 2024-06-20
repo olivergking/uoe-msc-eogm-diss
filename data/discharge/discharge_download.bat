@@ -1,0 +1,1 @@
+wget -r -e robots=off -nH --cut-dirs=3 --content-disposition --reject csv,tmp,html "https://dataverse.geus.dk/api/datasets/:persistentId/dirindex?persistentId=doi:10.22008/promice/data/ice_discharge/d/v02"
