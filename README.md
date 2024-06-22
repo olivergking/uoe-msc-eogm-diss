@@ -2,8 +2,8 @@
 
 <h1>
 <p align="center">
-  University of Edinburgh
-  MSc Earth Observation & Geoinformation Management
+  University of Edinburgh<br />
+  MSc Earth Observation & Geoinformation Management<br />
   Dissertation
 </p>
 
