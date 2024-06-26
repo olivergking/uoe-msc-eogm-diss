@@ -1,13 +1,6 @@
 ![python-badge](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
 ![codestyle-badge](https://img.shields.io/badge/code%20style-black-000000)
 
-<h1>
-<p align="center">
-  University of Edinburgh<br />
-  MSc Earth Observation & Geoinformation Management<br />
-  Dissertation
-</p>
-
 </h1>
   <p align="left">
     Repository containing all code necessary to reproduce data download, processing, analysis, and visualisation associated with the dissertation:</br></br>
