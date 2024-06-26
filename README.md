@@ -1,6 +1,9 @@
-![python-badge](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
-![codestyle-badge](https://img.shields.io/badge/code%20style-black-000000)
-
+<p align="left">
+<a href="https://www.python.org/" alt="Python">
+<img src="https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54" /></a>
+<a href="https://black.readthedocs.io/en/stable/" alt="Black">
+<img src="https://img.shields.io/badge/code%20style-black-000000" /></a>
+</p>
 </h1>
   <p align="left">
     Repository containing all code necessary to reproduce data download, processing, analysis, and visualisation associated with the dissertation:</br></br>
