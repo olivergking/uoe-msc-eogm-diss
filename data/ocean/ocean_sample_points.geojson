@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ocean_sample_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3413" } },
+"bbox": [ 569493.497129208, -2428114.76503383, 890925.259608215, -1990812.27739979 ],                                              
+"features": [
+{ "type": "Feature", "properties": { "glacier": "UNNAMED_UUNARTIT_ISLANDS", "glacier_code": "UI" }, "bbox": [ 569493.497129207942635, -2428114.765033833216876, 569493.497129207942635, -2428114.765033833216876 ], "geometry": { "type": "Point", "coordinates": [ 569493.497129207942635, -2428114.765033833216876 ] } },
+{ "type": "Feature", "properties": { "glacier": "DAUGAARD-JENSEN", "glacier_code": "DJ" }, "bbox": [ 890925.259608215419576, -1990812.277399792568758, 890925.259608215419576, -1990812.277399792568758 ], "geometry": { "type": "Point", "coordinates": [ 890925.259608215419576, -1990812.277399792568758 ] } }
+]
+}
