@@ -12,7 +12,7 @@
 </p>
 
 ## Getting Started
-Clone this repository, or download the [.zip](https://github.com/oliver01king/uoe-msc-eogm-diss/archive/refs/heads/main.zip).
+Clone this repository, or download the [.zip](https://github.com/olivergking/uoe-msc-eogm-diss/archive/refs/heads/main.zip).
 ```sh
 git clone https://github.com/oliver01king/uoe-msc-eogm-diss.git
 ```
