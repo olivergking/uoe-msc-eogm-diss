@@ -6,7 +6,7 @@
 </p>
 </h1>
   <p align="left">
-    Repository containing all code necessary to reproduce data download, processing, analysis, and visualisation associated with the dissertation:</br></br>
+    Repository containing code and data necessary to reproduce processing, analysis, and visualisation associated with the dissertation:</br></br>
     King, O. G. (2024) Dissertation. MSc. The University of Edinburgh.
   </p>
 </p>
