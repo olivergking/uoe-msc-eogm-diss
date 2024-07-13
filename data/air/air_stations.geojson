@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "air_stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3413" } },
+"features": [
+{ "type": "Feature", "properties": { "station_id": 433900, "station_name": "Ittoqqortoormiit" }, "geometry": { "type": "Point", "coordinates": [ 835464.903620282071643, -1963571.989498812472448, 70.0 ] } },
+{ "type": "Feature", "properties": { "station_id": 435100, "station_name": "Aputiteeq" }, "geometry": { "type": "Point", "coordinates": [ 536258.211046429583803, -2376503.057901103049517, 13.0 ] } }
+]
+}
