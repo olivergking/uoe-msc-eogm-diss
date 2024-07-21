@@ -1,4 +1,5 @@
 */*
+!bathymetry/ibcao_download.bat
 !bedmachine/bedmachine-v5_download.bat
 !basins.geojson
 !centreline_lines.geojson
