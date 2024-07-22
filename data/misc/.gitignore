@@ -1,6 +1,2 @@
-*/*
-!bathymetry/ibcao_download.bat
-!bedmachine/bedmachine-v5_download.bat
-!basins.geojson
-!centreline_lines.geojson
-!centreline_points.geojson
+!bathymetry/ibcao_bathymetry_v4-2.nc
+!bedmachine/BedMachineGreenland-v5.nc
