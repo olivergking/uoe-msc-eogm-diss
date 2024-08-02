@@ -4,12 +4,14 @@
 </p>
 
 Repository containing all materials necessary to reproduce the data processing, analysis, and visualisation associated with the dissertation:</br></br>
-_Drivers of terminus retreat at two contrasting east Greenland tidewater outlet glaciers_, Oliver George King
+_Drivers of terminus retreat at two contrasting east Greenland tidewater outlet glaciers_.\
+Oliver George King, August 2024.\
+School of GeoSciences, The University of Edinburgh.
 
 ## Getting started
 Clone this repository and install the required Python packages
 ```sh
-git clone https://github.com/oliver01king/uoe-msc-eogm-diss.git
+git clone https://github.com/olivergking/uoe-msc-eogm-diss.git
 ```
 ```sh
 python3 -m pip install requirements.txt
