@@ -4,7 +4,7 @@
 </p>
 
 Repository containing all materials necessary to reproduce the data processing, analysis, and visualisation associated with the dissertation:</br></br>
-_Drivers of terminus retreat at two contrasting east Greenland tidewater outlet glaciers_.\
+_Drivers of terminus retreat at two contrasting central east Greenland tidewater outlet glaciers_.\
 Oliver George King, August 2024.\
 School of GeoSciences, The University of Edinburgh.
 
