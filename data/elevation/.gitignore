@@ -2,11 +2,11 @@
 
 !aerodem/aerodem_download.bat
 
-!arcticdem/arcticdem_strip-index_download.bat
-!arcticdem/elevation_arcticdem_points.nc
-!arcticdem/arcticdem_counts.geojson
+!arcticdem/elevation_arcticdem_strip-index_download.bat
+!arcticdem/elevation_arcticdem.nc
+!arcticdem/elevation_arcticdem_counts.geojson
 
-!asterdem/elevation_asterdem_points.nc
+!asterdem/elevation_asterdem.nc
 
 !grimpdem/grimpdem_download.bat
 
