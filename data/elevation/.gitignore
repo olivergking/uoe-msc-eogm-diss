@@ -1,14 +1,8 @@
 */*
 
-!aerodem/aerodem_download.bat
-
 !arcticdem/elevation_arcticdem_strip-index_download.bat
 !arcticdem/elevation_arcticdem.nc
 !arcticdem/elevation_arcticdem_counts.geojson
 
 !asterdem/elevation_asterdem.nc
-
-!grimpdem/grimpdem_download.bat
-
-!icesat2/icesat2_download.bat
 
