@@ -1,6 +1,7 @@
 <p align="left">
 <a href="https://www.python.org/" alt="Python">
 <img src="https://img.shields.io/badge/python_3.11+-3670A0?&logo=python&logoColor=ffdd54" /></a>
+<a href="https://doi.org/10.5281/zenodo.13260261"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13260261.svg" alt="doi"></a>
 </p>
 
 Repository containing all materials necessary to reproduce the data processing, analysis, and visualisation associated with the dissertation:</br></br>
